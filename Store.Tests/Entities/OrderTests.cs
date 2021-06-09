@@ -5,6 +5,7 @@ using Store.Domain.Enums;
 
 namespace Store.Tests.Entities
 {
+    // um bom teste não depende do banco de dados
     [TestClass]
     public class OrderTests
     {
